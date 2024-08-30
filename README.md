@@ -1,0 +1,1 @@
+A simple windows forms app that can be used to view images in a folder. In this I used my minecraft screenshots directory, to view and show screenshots. THe folder path is hardcoded in, so you change the folder path to view youe own images.
